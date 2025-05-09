@@ -34,6 +34,7 @@
   ]
   #show heading.where(level: 3): h => [
     #set text(font: "DejaVu Sans", size: 12pt)
+    #v(2em)
     #h
     #v(1.2em)
   ]
