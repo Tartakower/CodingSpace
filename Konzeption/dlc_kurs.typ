@@ -5,7 +5,7 @@
 
 #set text(lang: "de")
 
-#show: doc => titelseite("Kurskonzept DLC", "Notizen", "Polu Tartakower", "Kiel, September 2025", doc)
+#show: doc => titelseite("Kurskonzept DLC", "Notizen", "Norbert Seulberger", "Kiel, September 2025", doc)
 
 #show: toc
 #set page(numbering: "1")
