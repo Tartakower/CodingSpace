@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.language": "de,en",
+		"cSpell.words": [
+			"Barrieresensibilität",
+			"Hackathon",
+			"Präsenztermine",
+			"zukunftszugewandter"
+		]
+	}
 }
