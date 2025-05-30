@@ -10,47 +10,58 @@
 
 ### Anzahl der Teilnehmenden: Wie viele Personen können an deinem Bildungsangebot teilnehmen?
 
+Der erste Durchlauf soll mit 8 bis 20 Jugendlichen starten.
+
+Für die Fortsetzung nach einem Jahr hängt die Teilnehmerzahl von mehreren Rahmenbedingungen ab:
+
+* Wie groß ist das Interesse bzw. die Nachfrage bei potentiellen TeilnehmerInnen? Insbesondere bezüglich einer kontinuierlichen Beschäftigung mit dem Thema?
+* Auf welchen vorhandenen Kenntnissen oder Fähigkeiten können die Inhalte aufbauen?
+* Welche Betreuer stehen langfristig zur Verfügung?
+* Gelingt es, einen breiten Unterstützerkreis aufzubauen?
+
 <!-- ToDo -->
-* Start mit 20 TeilnehmerInnen
-* Weiterer Ausbau in Abhängigkeit der Nachfrage
-* Rahmenbedingungen: Betreuer, Unterstützer
+Verstetigung eher unten beschreiben.
 
 ### Kurzbeschreibung: Was erwartet die Teilnehmenden bei deinem Bildungsangebot?
 
-<!-- ToDo -->
+Der Coding Space bietet den TeilnehmerInnen die Möglichkeit, zusammen mit anderen Jugendlichen unter Anleitung der BetreuerInnen erste vertiefte Schritte in der Programmierung zu machen und sich langfristig damit zu beschäftigen.
 
 ## Lernziele
 
 ### Lernziele: Was sollen die Teilnehmenden am Ende des Bildungsangebots wissen, können, reflektieren etc.?
 
-Die TeilnehmerInnen sollen ihre Kompetenzen bei einem ernsthaften Umgang mit IT vertieft und dabei ein positives Erlebnis erfahren haben. Sie sollen einen Eindruck gewonnen haben, ob sie eine weitere Beschäftigung mit IT dauerhaft interessieren könnte und ob daher ein IT-Beruf eine mögliche, eigenmotivierte Berufswahl sein könnte.
+Die TeilnehmerInnen sollen ihre Kompetenzen bei einem ernsthaften Umgang mit IT vertieft und dabei ein positives Erlebnis erfahren haben. Sie sollen einen Eindruck gewonnen haben, ob sie eine weitere Beschäftigung mit IT dauerhaft interessieren könnte und ob daher ein IT-Beruf eine mögliche, eigene, nicht fremdbestimmte Berufswahl sein könnte.
 
 ### Überprüfungsmöglichkeiten: Wie soll überprüft werden, ob die Lernziele von deinen Teilnehmenden erreicht worden sind?
 
-<!-- ToDo -->
-Eigenprüfung der TeilnehmerInnen
+Im Kurs können verschiedene Programmierprojekte je nach fachlichen Vorkenntnissen bearbeitet werden. Das Erreichen des jeweiligen Projektziels, in der Regel ein funktionierendes, getestetes Programm, ist ein erster Indikator für das Erreichen eines bestimmten Kompetenzniveaus. Das Projektergebnis und Zwischenergebnisse werden vorgestellt und mit einer virtuellen Prämie ("Badge") honoriert.
+
+Während der Bearbeitung verfolgen die Betreuer den Weg der Lösungsfindung und die Diskussionen der TeilnehmerInnen, geben auch selektiv Hilfestellung, falls die Jugendlichen alleine nicht weiterkommen. Insofern sollte das Betreuerteam einen kontinuierlichen Eindruck vom Lernstand der TeilnehmerInnen haben.
+
+Die TeilnehmerInnen sollen beiläufig lernen, die eigenen Kompetenzen einzuschätzen sowie Lernfortschritte oder -defizite zu erkennen.
 
 ### Lernmaterial/Content: Zu welchen Themen werden Lernmaterialien in deinem Bildungsangebot bereitgestellt oder (gemeinsam) erarbeitet?
 
-<!-- ToDo -->
-Materialien aus der Ausbildung, Lehrbücher, Online-Kurse
+Im Bereich der Programmierung gibt es diverse Materialien als Online-Kurs im Internet oder in (elektronischen) Büchern.
+
+Betriebliche Ausbilder oder Studiengangsbetreuer verfügen erfahrungsgemäß über einen großen Fundus an Lehr-/Lernmaterialien und können daraus angemessen fordernde und interessante Aufgaben extrahieren.
 
 ## Zukunftskompetenzen
 
 ### Zukunftskompetenzen: Welche Zukunftskompetenzen können in deinem Bildungsangebot erworben werden?
 
-<!-- Beschäftigung mit IT -->
-<!-- Programmieren -->
-<!-- Mensch als Beherrscher der KI -->
+Eine ernsthafte Beschäftigung mit IT jenseits der Online-Konsumangebote oder des Entertainments dürfte zweifelsfrei eine wichtige Zukunftskompetenz darstellen. Insbesondere Programmierkenntnisse eröffnen mehrere IT-Berufe.
+
+Vermutlich werden diejenigen, die grundlegende Programmierkenntnisse besitzen, den größten Gewinn aus dem Bedeutungsgewinn von KI-Systemen ziehen können.
 
 ### Details: Weitere Beschreibung zu den adressierten Kompetenzen
 
-<!-- ToDo -->
-Unklar?!
+Das Format soll ganzheitlich alle Handlungskompetenzen ansprechen:
 
-* Fachliche kognitive Kompetenzen
-* Selbstkompetenz
-* Soziale Kompetenzen
+* Fachkompetenz: Vertiefung von Fachwissen zu Programmierung, Training von analytisch-kognitiven Kompetenzen
+* Methodenkompetenz: Wie gelange ich systematisch ans Ziel, räume Hindernisse aus dem Weg, sichere die Qualität meiner Arbeit?
+* Selbstkompetenz: Wie erlange ich neues Wissen oder Fähigkeiten, wie gewinne ich aus Erfolgen Selbstvertrauen, wie gehe ich mit Misserfolgen um?
+* Sozialkompetenz: Wir programmieren zusammen in der Gruppe und finden als Team Lösungen. Niemand codiert einsam allein für sich.
 
 ## Zielgruppe
 
@@ -100,49 +111,51 @@ Es werden Räumlichkeiten in der Innenstadt von Kiel benötigt, die gut mit dem 
 
 #### Betreuer
 
-<!-- Betreuer -->
+Als Beteuer sollen zunächst erfahrene IT-Spezialisten agieren, die dafür von ihrer Firma jeweils freigestellt werden. Wichtig ist die Beteiligung von weiblichen Betreuerinnen, die ein positives Bild von Frauen in IT-Berufen transportieren können.
+
+Sofern sich im Laufe der Veranstaltung ein breiterer Unterstützerkreis findet (z.B. Eltern), muss nicht jeder Betreuer über tiefe IT-Kenntnisse verfügen.
 
 ### Details zum Format: Weitere Beschreibung, bspw. zur Aufteilung deines Bildungsangebots in Online- und Präsenztermine
 
-<!-- ToDo -->
-Motivation für Präsenz
+Das Präsenzformat ist ganz wesentlich für die soziale Dimension der Veranstaltung und wirkt explizit gegen eine Online-Vereinsamung. Außerdem können die Betreuer nur im persönlichen Kontakt ein positives Rollenmodell vertreten.
 
 ### Eignung des Formats: Warum passt das gewählte Format zu den Inhalten und der Zielgruppe deines Bildungsangebots?
 
-<!-- ToDo -->
-Grundlegende IT-Kompetenz
-Berufsorientierung
+IT-Berufe sind Zukunftsberufe, gerade bei zunehmender Bedeutung von künstlicher Intelligenz. Einen IT-Beruf kann man nur mit entsprechenden Vorkenntnissen und Interessen wählen.
+
+Die Veranstaltung bietet die Vermittlung grundlegender Programmierkenntnisse und hilft bei der Berufsorientierung von Jugendlichen.
 
 ## Barrieresensibilität
 
 ### Mögliche Barrieren: Welche Aspekte deines Bildungsangebots könnten einigen Menschen den Zugang dazu erschweren?
 
-<!-- ToDo -->
-Kanonisches Klientel
-Integration Außenseiter
+IT-Berufe werden immer noch stark von Männern dominiert. Eine eingeschworene Gemeinschaft kann sehr abweisend gegenüber Menschen wirken, die der Gruppennorm nicht entsprechen.
+
+Das könnte Frauen, Menschen mit Migrationshintergrund oder Menschen mit Einschränkungen zunächst abschrecken.
 
 ### Gegenmaßnahmen: Wie kannst du diese Barrieren abbauen oder alternative Zugänge anbieten?
 
-<!-- ToDo -->
-Explizit die soziale Dimension verkünden.
-Weibliche Betreuerinnen oder Migranten als Role model
+Die Veranstaltung muss sehr explizit damit beworben werden, dass alle InteressentInnen herzlich eingeladen sind und dass das soziale Miteinander ein wesentlicher Aspekt der Treffen darstellt.
+
+Ideal wäre die Beteiligung von weiblichen Betreuerinnen oder IT-Spezialisten mit Migrationshintergrund, um als positive Persönlichkeit zu ermutigen.
+
+Ferner sind barrierefreie Räumlichkeiten und unterstützende IT-Systeme für Sehbehinderte wünschenswert.
 
 ## Zukunftsorientierung
 
 ### Aktualität: Wie wird ein Bezug zu aktuellen Themen in deinem Bildungsangebot hergestellt?
 
-<!-- ToDo -->
-Programmieren mit KI
+Künstliche Intelligenz verändert zunehmend die Programmierung von Computerprogrammen, schafft sie aber nicht ab. Das Programmieren mit KI-Unterstützung wird ein wesentliches Thema bilden.
 
 ### Kritisches Denken: Inwiefern werden in deinem Bildungsangebot aktuelle Themen aus unterschiedlichen Perspektiven betrachtet?
 
-<!-- ToDo -->
-Weg von der Konsumentenhaltung, Überbetonung der Zerstreuung, hin zu Konzentration und Aktivität
+Digitalisierung geht bei Jugendlichen viel einher mit dem passiven Konsum von Inhalten, der Überbetonung von Zerstreuung oder Vereinsamung. Die Veranstaltung bietet die Möglichkeit zur aktiven Gestaltung und Fokussierung, soll aber auch Spaß machen, Selbstvertrauen vermitteln und Gemeinschaft stiften.
 
 ### Bildungsverständnis: Wie zeigt sich eine Vision von zukunftszugewandter Bildung in deiner Veranstaltung?
 
-<!-- ToDo -->
-Unklar?!
+Die Konzepte und Technologien der Programmierung befinden sich in kontinuierlicher Fortentwicklung. Daher wird schnell klar, dass der Beruf des Softwareentwicklers zum lebenslangen Lernen einlädt.
+
+Dementsprechend sind IT-Profis häufig neugierige Menschen, für die das lebenslange Lernen selbstverständlich ist. Insofern transportieren die BetreuerInnen dieses Bild auf natürliche Weise.
 
 ## Lernerlebnis
 
