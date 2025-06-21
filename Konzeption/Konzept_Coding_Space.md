@@ -12,25 +12,34 @@
 
 Der erste Durchlauf soll mit 8 bis 20 Jugendlichen starten.
 
-Für die Fortsetzung nach einem Jahr hängt die Teilnehmerzahl von mehreren Rahmenbedingungen ab:
-
-* Wie groß ist das Interesse bzw. die Nachfrage bei potentiellen TeilnehmerInnen? Insbesondere bezüglich einer kontinuierlichen Beschäftigung mit dem Thema?
-* Auf welchen vorhandenen Kenntnissen oder Fähigkeiten können die Inhalte aufbauen?
-* Welche Betreuer stehen langfristig zur Verfügung?
-* Gelingt es, einen breiten Unterstützerkreis aufzubauen?
-
-<!-- ToDo -->
-Verstetigung eher unten beschreiben.
+Sofern eine größere Anzahl an Jugendlichen Interesse zeigt, lässt sich das Format auch vergrößern, sofern genug BetreuerInnen gewonnen werden können.
 
 ### Kurzbeschreibung: Was erwartet die Teilnehmenden bei deinem Bildungsangebot?
 
-Der Coding Space bietet den TeilnehmerInnen die Möglichkeit, zusammen mit anderen Jugendlichen unter Anleitung der BetreuerInnen erste vertiefte Schritte in der Programmierung zu machen und sich langfristig damit zu beschäftigen.
+Der Coding Space bietet den TeilnehmerInnen die Möglichkeit, zusammen mit anderen Jugendlichen unter Anleitung der BetreuerInnen vertiefte Schritte in der Programmierung zu machen und sich langfristig damit zu beschäftigen.
+
+* Es handelt sich um eine Präsenzveranstaltung.
+* Die TeilnehmerInnen müssen bereits erste grundlegende Erfahrungen mit Programmierung gemacht haben und an einer Vertiefung der Kenntnisse und Fähigkeiten interessiert sein.
+* Die TeilnehmerInnen bearbeiten je nach Kompetenzstand eigene oder vorgegebene Programmieraufgaben oder -projekte.
+* Die Betreuung übernehmen erfahrene SoftwareentwicklerInnen, die dafür von ihren Firmen freigestellt werden.
+
+Die Veranstaltung wird regelmäßig angeboten. Die Frequenz richtet sich nach der Nachfrage.
+
+#### Große Variante: der wöchentliche Programmiernachmittag
+
+Die Veranstaltung findet wöchentlich nachmittags für zwei Stunden statt, analog zum wöchentlichen Sporttraining, Schachclub oder Instrumentenunterricht. Inhaltlich erfolgt ein Auftakt zum Start des Schuljahres und ein formaler Abschluss zum Schuljahresende. Die TeilnehmerInnen können ein oder mehrere Jahre teilnehmen.
+
+#### Kleine Variante: der Hackathon in den Schulferien
+
+Sofern keine ausreichende Teilnehmeranzahl für einen wöchentlichen Termin zustande kommt, könnte in der letzten Woche der Schulferien (Herbst-, Weihnachts-, Oster- und Sommerferien) ein drei- bis fünftägiger Programmierworkshop (_Hackathon_) durchgeführt werden.
 
 ## Lernziele
 
 ### Lernziele: Was sollen die Teilnehmenden am Ende des Bildungsangebots wissen, können, reflektieren etc.?
 
-Die TeilnehmerInnen sollen ihre Kompetenzen bei einem ernsthaften Umgang mit IT vertieft und dabei ein positives Erlebnis erfahren haben. Sie sollen einen Eindruck gewonnen haben, ob sie eine weitere Beschäftigung mit IT dauerhaft interessieren könnte und ob daher ein IT-Beruf eine mögliche, eigene, nicht fremdbestimmte Berufswahl sein könnte.
+Explizit lernen die TeilnehmerInnen das Programmieren mit einer modernen höheren Programmiersprache (_Python_) und die zugrundeliegenden Konzepte.
+
+Die TeilnehmerInnen sollen ihre Kompetenzen bei einem ernsthaften Umgang mit IT vertiefen und dabei ein positives Erlebnis erfahren. Sie sollen einen Eindruck gewonnen haben, ob sie eine weitere Beschäftigung mit IT dauerhaft interessieren könnte und ob daher ein IT-Beruf eine mögliche, eigene, nicht fremdbestimmte Berufswahl sein könnte.
 
 ### Überprüfungsmöglichkeiten: Wie soll überprüft werden, ob die Lernziele von deinen Teilnehmenden erreicht worden sind?
 
@@ -85,7 +94,7 @@ Die TeilnehmerInnen sollten eine grundlegende Handfertigkeit in der Bedienung ei
 
 #### Fachliche Vorkenntnisse
 
-Die TeilnehmerInnen sollten im Rahmen des Schulunterrichts, während eine betrieblichen Praktikums oder bei einer Ferienveranstaltung erste Erfahrungen im ernsthaften Umgang mit IT gemacht haben, möglichst bereits programmiert haben, beispielsweise mit Scratch oder Python.
+Die TeilnehmerInnen sollten im Rahmen des Schulunterrichts, während eines betrieblichen Praktikums oder bei einer Ferienveranstaltung bereits programmiert haben, beispielsweise mit Scratch oder Python. Das Format richtet sich also **nicht** an Anfänger, sondern soll ein Folgeangebot für Interessierte darstellen. 
 
 #### Soziale Kompetenzen
 
@@ -101,9 +110,9 @@ Die Veranstaltung wird ausschließlich in Präsenz durchgeführt.
 
 Die Veranstaltung durchläuft einen Jahreszyklus, der sich am Schuljahr orientiert. Wir starten nach den Sommerferien und schließen vor den Sommerferien (möglichst mit einem kleinen Fest) ab. Dieser Zyklus wird jährlich nur gestartet.
 
-Der Coding Space findet während der Schulwochen wöchentlich statt, möglichst am Freitagnachmittag von 15 - 17 Uhr.
+Der Coding Space findet während der Schulwochen wöchentlich statt, z.B. am Donnerstagnachmittag von 16 - 18 Uhr.
 
-In den Schulferien sind optional zusätzliche Ganztagsangebote ("Hackathon") denkbar.
+In den Schulferien sind optional zusätzliche Ganztagsangebote (_Hackathon_) denkbar.
 
 #### Veranstaltungsort
 
@@ -161,8 +170,12 @@ Dementsprechend sind IT-Profis häufig neugierige Menschen, für die das lebensl
 
 ### Teilnehmende gewinnen: Wie möchtest du bei Lernenden Interesse an deiner Veranstaltung wecken?
 
-<!-- ToDo -->
-Werbung an Schulen ohne Informatik-AG, opencampus, Arbeitsamt, DLC
+Die Adressaten sind Jugendliche in der Berufsorientierung. Daher bieten sich als Kooperationspartner oder Orte für Werbung an:
+
+* Schulen, insbesondere ohne Informatik-AG
+* Jugendberufsagentur Kiel
+* Vereine mit IT-Bezug (z.B. opencampus.sh)
+* Digital Learning Campus SH
 
 ### Motivation: Wie möchtest du die Teilnehmenden deines Bildungsangebots zum Lernen motivieren?
 
@@ -188,8 +201,7 @@ Für TeilnehmerInnen eher unbewusst / mittelbar.
 
 ### Intention: Was möchtest du mit deinem Bildungsangebot bezwecken?
 
-<!-- ToDo -->
-Shu-ha-ri-Gap schließen
+Das Angebot soll Jugendliche bei der Berufsorientierung unterstützen, indem die eigenen Interessen und Kompetenzen bezüglich eines IT-Berufes überprüft werden können. Es stellt ein Bindeglied zwischen dem Informatikunterricht an der Schule einerseits und der Berufsausbildung oder dem Studium andererseits dar.
 
 ## Einbettung in den DLC-Kontext
 
