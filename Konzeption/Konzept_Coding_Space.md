@@ -1,12 +1,18 @@
-# Dein Konzept für ein DLC-Bildungsangebot
+# Konzept für ein DLC-Bildungsangebot
+
+Verfasser: Norbert Seulberger, betrieblicher Ausbilder und Studiengangsbetreuer, Altenholz
+
+Juni 2025
 
 ## Basisinformationen
 
 ### Titel: Coding Space für Jugendliche
 
+Eine freie Informatik-/Programmier-AG
+
 ### Anbietende: Welche Person und/oder Organisation bietet die Veranstaltung an?
 
-<!-- Klärung, ob Dataport die Leitung übernimmt -->
+Der Verfasser dieses Konzeptes möchte eine Kooperation verschiedener Unterstützer initiieren, die die Betreuung der Veranstaltung leisten und die organisatorischen Rahmenbedingungen herstellen können.
 
 ### Anzahl der Teilnehmenden: Wie viele Personen können an deinem Bildungsangebot teilnehmen?
 
@@ -21,13 +27,15 @@ Der Coding Space bietet den TeilnehmerInnen die Möglichkeit, zusammen mit ander
 * Es handelt sich um eine Präsenzveranstaltung.
 * Die TeilnehmerInnen müssen bereits erste grundlegende Erfahrungen mit Programmierung gemacht haben und an einer Vertiefung der Kenntnisse und Fähigkeiten interessiert sein.
 * Die TeilnehmerInnen bearbeiten je nach Kompetenzstand eigene oder vorgegebene Programmieraufgaben oder -projekte.
-* Die Betreuung übernehmen erfahrene SoftwareentwicklerInnen, die dafür von ihren Firmen freigestellt werden.
+* Die Betreuung übernehmen erfahrene SoftwareentwicklerInnen.
 
 Die Veranstaltung wird regelmäßig angeboten. Die Frequenz richtet sich nach der Nachfrage.
 
 #### Große Variante: der wöchentliche Programmiernachmittag
 
 Die Veranstaltung findet wöchentlich nachmittags für zwei Stunden statt, analog zum wöchentlichen Sporttraining, Schachclub oder Instrumentenunterricht. Inhaltlich erfolgt ein Auftakt zum Start des Schuljahres und ein formaler Abschluss zum Schuljahresende. Die TeilnehmerInnen können ein oder mehrere Jahre teilnehmen.
+
+Diese Variante besitzt den Charakter einer Informatik-AG, ist aber nicht an eine einzelne Schule gebunden, sondern steht allen interessierten Jugendlichen offen, insbesondere denen, die kein Angebot an ihrer eigenen Schule erhalten.
 
 #### Kleine Variante: der Hackathon in den Schulferien
 
@@ -54,6 +62,15 @@ Die TeilnehmerInnen sollen beiläufig lernen, die eigenen Kompetenzen einzuschä
 Im Bereich der Programmierung gibt es diverse Materialien als Online-Kurs im Internet oder in (elektronischen) Büchern.
 
 Betriebliche Ausbilder oder Studiengangsbetreuer verfügen erfahrungsgemäß über einen großen Fundus an Lehr-/Lernmaterialien und können daraus angemessen fordernde und interessante Aufgaben extrahieren.
+
+Konkret soll mit der Programmiersprache _Python_ gearbeitet werden. Mögliche Inhalte sind:
+
+* Die Entwicklungsumgebung für Python einrichten
+* Kleine Programmierübungen zum Warmwerden mit Python
+* Python als Scriptsprache, um Arbeiten auf dem Rechner zu automatisieren (_Automate boring stuff_)
+* Schwierige Algorithmen
+* Testautomatisierung
+* Kleine Webanwendungen (Blog, ToDo-Liste, Abstimmungsapp) mit _Django_
 
 ## Zukunftskompetenzen
 
@@ -94,7 +111,7 @@ Die TeilnehmerInnen sollten eine grundlegende Handfertigkeit in der Bedienung ei
 
 #### Fachliche Vorkenntnisse
 
-Die TeilnehmerInnen sollten im Rahmen des Schulunterrichts, während eines betrieblichen Praktikums oder bei einer Ferienveranstaltung bereits programmiert haben, beispielsweise mit Scratch oder Python. Das Format richtet sich also **nicht** an Anfänger, sondern soll ein Folgeangebot für Interessierte darstellen. 
+Die TeilnehmerInnen sollten im Rahmen des Schulunterrichts, während eines betrieblichen Praktikums oder bei einer Ferienveranstaltung bereits programmiert haben, beispielsweise mit Scratch oder Python. Das Format richtet sich also **nicht** an Anfänger, sondern soll ein Folgeangebot für Interessierte darstellen.
 
 #### Soziale Kompetenzen
 
@@ -120,7 +137,13 @@ Es werden Räumlichkeiten in der Innenstadt von Kiel benötigt, die gut mit dem 
 
 #### Betreuer
 
-Als Beteuer sollen zunächst erfahrene IT-Spezialisten agieren, die dafür von ihrer Firma jeweils freigestellt werden. Wichtig ist die Beteiligung von weiblichen Betreuerinnen, die ein positives Bild von Frauen in IT-Berufen transportieren können.
+Als Beteuer sollen möglichst erfahrene IT-Spezialisten agieren. Wichtig ist die Beteiligung von weiblichen Betreuerinnen, die ein positives Bild von Frauen in IT-Berufen transportieren können.
+
+Ideal wäre ein bunter Mix verschiedener Personen, z.B.
+
+* Programmierer, die in der Freizeit ihr Wissen weitertragen wollen,
+* Softwareentwickler, die dafür von ihrer Firma freigestellt werden oder
+* RentnerInnen.
 
 Sofern sich im Laufe der Veranstaltung ein breiterer Unterstützerkreis findet (z.B. Eltern), muss nicht jeder Betreuer über tiefe IT-Kenntnisse verfügen.
 
@@ -173,31 +196,27 @@ Dementsprechend sind IT-Profis häufig neugierige Menschen, für die das lebensl
 Die Adressaten sind Jugendliche in der Berufsorientierung. Daher bieten sich als Kooperationspartner oder Orte für Werbung an:
 
 * Schulen, insbesondere ohne Informatik-AG
-* Jugendberufsagentur Kiel
+* Jugendberufsagentur Kiel und deren Kooperationspartner
 * Vereine mit IT-Bezug (z.B. opencampus.sh)
 * Digital Learning Campus SH
 
 ### Motivation: Wie möchtest du die Teilnehmenden deines Bildungsangebots zum Lernen motivieren?
 
-<!-- ToDo -->
-Eigenmotivation aufgreifen, schnelle Erfolgserlebnisse, kleine Prämien (Badges), kleine Einheiten, Steigerung des Schwierigkeitsgrades, Eigenverantwortung
+Das Angebot soll die Eigenmotivation und das vorhandene Interesse aufgreifen. Ein größeres Projektziel wird in kleine Einheiten unterteilt, so dass sich schnelle Erfolgserlebnisse einstellen, die durch kleine virtuelle Prämien (_Badges_) honoriert werden. Die TeilnehmerInnen können eigenverantwortlich den Schwierigkeitsgrad steigern, wobei die Betreuer als Lernpartner zur Seite stehen. Zusätzlich soll das Gruppenerlebnis motivieren.
 
 ### Positive Lernerfahrung: Wie stellst du sicher, dass dein Bildungsangebot zu einem positiven freudvollen Erlebnis für alle Lernenden wird?
 
-<!-- ToDo -->
-Betreuer als Identifikationspersonen, schnelle Erfolgserlebnisse, kleine Prämien (Badges), humorvoller Umgang mit Rückschlägen
+Zusätzlich zu den vorgenannten Aspekten soll das Gruppenerlebnis eine positive Grundstimmung erzeugen. Niemand soll alleine an zu hohen kognitiven Hürden scheitern, fachliche Probleme werden als Herausforderungen erlebt, die gemeinsam oder mit Hilfe der BetreuerInnen gemeistert werden. Wichtig ist, dass die BetreuerInnen als Persönlichkeiten präsent sind und zur Rollenidentifikation einladen.
 
 ## Veranstaltungsintention
 
 ### Persönliche Motivation: Welcher Gedanke, welches persönliche Bestreben steht hinter deiner Veranstaltung?
 
-<!-- ToDo -->
-Berufliche Ausbildertätigkeit, Lücke bei Berufsorientierung
+Als Ausbilder und Studiengangsbetreuer sehe ich einen großen Bedarf darin, eine erste Begegnung mit IT in der Schule für besonders Interessierte aufzugreifen und weiterzuführen. Damit soll auch eine Lücke bei der Berufsorientierung geschlossen werden.
 
 ### Anliegen: Wie wird deutlich, welches Anliegen dein Bildungsangebot verfolgt?
 
-<!-- ToDo -->
-Für TeilnehmerInnen eher unbewusst / mittelbar.
+Für TeilnehmerInnen steht das positive Erlebnis und die sinnvolle Freizeitbeschäftigung im Vordergrund. Mögliche positive Auswirkungen auf die Persönlichkeitsentwicklung oder die Berufswahl ergeben sich eher mittelbar.
 
 ### Intention: Was möchtest du mit deinem Bildungsangebot bezwecken?
 
@@ -207,10 +226,8 @@ Das Angebot soll Jugendliche bei der Berufsorientierung unterstützen, indem die
 
 ### Verbindung: Inwiefern kann dein Bildungsangebot eindeutig mit dem Digital Learning Campus in Verbindung gebracht werden?
 
-<!-- ToDo -->
-DLC bedeutet lernen mit digitalen Mitteln, aber auch Erlernen von digitale Inhalte
+Für mich bedeutet das DLC sowohl das Lernen mit digitalen Mitteln und Medien als auch das Erlernen von digitalen Kompetenzen und Fähigkeiten. Im Format ist das Angebot eher konventionell, im Inhalt sehr zukunftsweisend.
 
 ### DLC-Wertekodex: Inwiefern stärkt deine Veranstaltung die Visionen und Missionen des Digital Learning Campus?
 
-<!-- ToDo -->
-Gesellschaftliches Engagement ergänzt Schule, Hochschule, Betriebe.
+Digitale Kompetenz muss gut in ein soziales Umfeld eingebettet werden. Gesellschaftliches Engagement und Miteinander ergänzen Schule, Hochschule oder Betriebe. Die TeilnehmerInnen sollten erste Schritte in die digitale Souveränität machen.
